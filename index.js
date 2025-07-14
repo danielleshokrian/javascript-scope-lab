@@ -7,8 +7,8 @@ function addBurger() {
 }
 
     if (true) {
-        const anothernewBurger = 'Maple Bacon Burger';
-        burgers.push(anothernewBurger.name);
+        const anotherNewBurger = 'Maple Bacon Burger';
+        burgers.push(anotherNewBurger);
     }
 
     function changeFeaturedDrink() {
